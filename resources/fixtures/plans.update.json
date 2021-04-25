@@ -1,0 +1,12 @@
+{
+    "before": {
+        "title": "Plano Completo",
+        "duration": 12,
+        "price": 89.99
+    },
+    "after": {
+        "title": "Plano Individual",
+        "duration": 3,
+        "price": 59.99
+    }
+}
