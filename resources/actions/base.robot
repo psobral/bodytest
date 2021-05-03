@@ -3,10 +3,12 @@ Documentation   Tudo começa aqui, meu arquivo base do projeto de automação
 
 library      Browser
 Library      Collections   ##Biblioteca está sendo adicionada para utilizar a KEYWORD "Append To List" e "List Should be equal" no cenário "Todos os campos devem ser obrigatorios"               
-Library     OperatingSystem  # Biblioteca para usar keyword Get File - sistema operacional
+Library      OperatingSystem  # Biblioteca para usar keyword Get File - sistema operacional
+Library      DateTime       # Biblioteca para datas
 Library      ../libs/DeloreanLibrary.py
 
 Resource    ../actions/auth.robot
+Resource    ../actions/enrolls.robot
 Resource    ../actions/students.robot
 Resource    ../actions/plans.robot
 Resource    ../actions/nav.robot

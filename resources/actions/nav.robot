@@ -15,6 +15,11 @@ Go To Plans
     Click       css=a[href$=planos]  
     Wait For Elements State         css=h1 >> text=Gestão de Planos       visible         5  
 
+Go To Enrolls
+    Click       css=a[href$=matriculas]  ## Foi colocado o $ para pegar a palavra que termina com  matricula, 
+    Wait For Elements State         css=h1 >> text=Gestão de Matrículas       visible         5  
+
+
 ##valida se estou logado , a validação é feita através do nome que esta logado
 ##por isso será criada uma variável
 User Should Be Logged In

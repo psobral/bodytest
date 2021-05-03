@@ -1,11 +1,13 @@
-{"level":30,"time":"2021-04-25T01:09:28.098Z","pid":53220,"hostname":"LAPTOP-J6SJ466S","msg":"Listening on 60481"}
-{"level":30,"time":"2021-04-25T01:09:28.757Z","pid":53220,"hostname":"LAPTOP-J6SJ466S","msg":"Changed active context"}
-{"level":30,"time":"2021-04-25T01:09:28.981Z","pid":53220,"hostname":"LAPTOP-J6SJ466S","msg":"Video path: undefined"}
-{"level":30,"time":"2021-04-25T01:09:28.982Z","pid":53220,"hostname":"LAPTOP-J6SJ466S","msg":"Changed active page"}
-{"level":30,"time":"2021-04-25T01:09:33.642Z","pid":53220,"hostname":"LAPTOP-J6SJ466S","msg":"Retrieved dom property for element css=aside strong containing Administrador"}
-{"level":30,"time":"2021-04-25T01:09:43.437Z","pid":53220,"hostname":"LAPTOP-J6SJ466S","msg":"Changed active context"}
-{"level":30,"time":"2021-04-25T01:09:43.438Z","pid":53220,"hostname":"LAPTOP-J6SJ466S","msg":"Changing current active page"}
-{"level":30,"time":"2021-04-25T01:09:43.438Z","pid":53220,"hostname":"LAPTOP-J6SJ466S","msg":"Changed active page"}
-{"level":30,"time":"2021-04-25T01:09:43.467Z","pid":53220,"hostname":"LAPTOP-J6SJ466S","msg":"Changed active context"}
-{"level":30,"time":"2021-04-25T01:09:43.467Z","pid":53220,"hostname":"LAPTOP-J6SJ466S","msg":"Changing current active page"}
-{"level":30,"time":"2021-04-25T01:09:43.467Z","pid":53220,"hostname":"LAPTOP-J6SJ466S","msg":"Changed active page"}
+{"level":30,"time":"2021-05-03T19:33:09.796Z","pid":24164,"hostname":"LAPTOP-J6SJ466S","msg":"Listening on 62699"}
+{"level":30,"time":"2021-05-03T19:33:10.501Z","pid":24164,"hostname":"LAPTOP-J6SJ466S","msg":"Changed active context"}
+{"level":30,"time":"2021-05-03T19:33:10.665Z","pid":24164,"hostname":"LAPTOP-J6SJ466S","msg":"Video path: undefined"}
+{"level":30,"time":"2021-05-03T19:33:10.666Z","pid":24164,"hostname":"LAPTOP-J6SJ466S","msg":"Changed active page"}
+{"level":30,"time":"2021-05-03T19:33:15.865Z","pid":24164,"hostname":"LAPTOP-J6SJ466S","msg":"Retrieved dom property for element css=aside strong containing Administrador"}
+{"level":30,"time":"2021-05-03T19:33:21.506Z","pid":24164,"hostname":"LAPTOP-J6SJ466S","msg":"Retrieved attribute for element css=input[name=start_date] containing 03/05/2021"}
+{"level":30,"time":"2021-05-03T19:33:21.556Z","pid":24164,"hostname":"LAPTOP-J6SJ466S","msg":"Retrieved attribute for element css=input[name=end_date] containing 03/05/2022"}
+{"level":30,"time":"2021-05-03T19:33:33.519Z","pid":24164,"hostname":"LAPTOP-J6SJ466S","msg":"Changed active context"}
+{"level":30,"time":"2021-05-03T19:33:33.520Z","pid":24164,"hostname":"LAPTOP-J6SJ466S","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-03T19:33:33.520Z","pid":24164,"hostname":"LAPTOP-J6SJ466S","msg":"Changed active page"}
+{"level":30,"time":"2021-05-03T19:33:33.561Z","pid":24164,"hostname":"LAPTOP-J6SJ466S","msg":"Changed active context"}
+{"level":30,"time":"2021-05-03T19:33:33.561Z","pid":24164,"hostname":"LAPTOP-J6SJ466S","msg":"Changing current active page"}
+{"level":30,"time":"2021-05-03T19:33:33.562Z","pid":24164,"hostname":"LAPTOP-J6SJ466S","msg":"Changed active page"}

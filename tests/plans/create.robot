@@ -63,9 +63,6 @@ Cenário: Validação dos campos numéricos
 
 
 
-
-
-
 ***Keywords***
 ## comportamento genérico ## foi feita para implementar um template de teste "Validate Number Type"
 ## KEYWORD VALIDA O TIPO DE CAMPO 

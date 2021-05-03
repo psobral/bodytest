@@ -1,0 +1,7 @@
+deploys
+logs
+logs/log.html
+logs/output.xml
+logs/playwright-log.txt
+logs/report.html
+

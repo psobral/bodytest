@@ -59,11 +59,24 @@ class DeloreanLibrary():
         conn.close()
 
 ## Gestão de Planos 
+    # def remove_plan(self, title):
+
+    #     query = "delete from plans where title = '{}'".format(title)
+    #     info(query)  # logar a query
+
+    #     conn = self.connect()
+           
+    #     cur = conn.cursor()
+    #     cur.execute(query)
+    #     conn.commit()
+    #     conn.close()
+
     def remove_plan(self, title):
 
-        query = "delete from plans where title = '{}'".format(title)
+        query = "delete from plans where title LIKE '%{}%'".format(title)
         info(query)  # logar a query
 
+#Like  - consegue remover um texto especifico em qualquer tabela, independente do que vem antes ou depois
         conn = self.connect()
            
         cur = conn.cursor()
@@ -71,6 +84,7 @@ class DeloreanLibrary():
         conn.commit()
         conn.close()
 
+    
     def insert_plan(self, plan):
 
         self.remove_plan(plan['title'])
